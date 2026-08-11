@@ -7,7 +7,7 @@ need a img for testing with name as ""leaf""
 
 ------------------------------------------------------
 cd /d "D:\College\internship\plant traning"
-
+cd /d  "D:\College\internship\COE\plant traning"
 ------------------------------------------------------
 
 venv\Scripts\activate
